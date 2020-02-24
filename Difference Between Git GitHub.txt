@@ -1,0 +1,7 @@
+Diffference between GIT and GITHub
+
+Git is a revision control system, a tool to manage your source code history, it is the distributed version control system. 
+
+
+GitHub is a hosting service for Git repositories.Git is responsible for keeping track of changes to content – usually source code files. 
+
